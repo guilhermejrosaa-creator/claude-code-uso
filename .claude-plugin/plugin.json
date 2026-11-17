@@ -1,0 +1,1 @@
+{ "name": "uso", "version": "0.1.0", "description": "Painel Uso: tokens gastos por pedido e por ferramenta na sessão, histórico e estimativa antes das tarefas", "types": "./types/index.d.ts" }
